@@ -75,14 +75,14 @@ st.markdown(
         background: #ffffff;
         border: 1px dashed #b9c9d8;
     }
-    [data-baseweb="textarea"] textarea,
-    [data-baseweb="input"] input {
+    [data-testid="stTextAreaRootElement"] textarea,
+    [data-testid="stTextInputRootElement"] input {
         color: #17283d !important;
         background-color: #ffffff !important;
         -webkit-text-fill-color: #17283d !important;
     }
-    [data-baseweb="textarea"] > div,
-    [data-baseweb="input"] > div {
+    [data-testid="stTextAreaRootElement"],
+    [data-testid="stTextInputRootElement"] {
         background-color: #ffffff !important;
     }
     h1, h2, h3, h4, h5, h6, label {
