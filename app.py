@@ -336,8 +336,8 @@ if results:
     with st.expander("How the score is calculated"):
         st.write(
             "The text-similarity component uses TF-IDF features and cosine similarity. "
-            "When job skills are detected, the overall score combines 70% text "
-            "similarity with 30% required-skill coverage. If no known job skills "
+            "When job skills are detected, the overall score combines 40% text "
+            "similarity with 60% required-skill coverage. If no known job skills "
             "are detected, the text-similarity score is used on its own."
         )
         st.write(
