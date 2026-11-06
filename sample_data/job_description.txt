@@ -1,0 +1,17 @@
+Data Analyst
+
+About the role
+We are looking for a data analyst to turn product and customer data into clear recommendations for business teams.
+
+Responsibilities
+- Query, clean, and analyze datasets using SQL and Python.
+- Build dashboards and reports with Power BI or Tableau.
+- Use Pandas, statistics, and data visualization to identify trends.
+- Explain findings to stakeholders and collaborate across teams.
+- Present measurable recommendations based on reliable analysis.
+
+Qualifications
+- Bachelor degree in statistics, computer science, economics, or a related field.
+- At least 2 years of experience in analytics or business intelligence.
+- Experience with SQL, Python, Excel, and a business intelligence tool.
+- Strong communication and problem-solving skills.
