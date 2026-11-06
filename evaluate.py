@@ -19,7 +19,7 @@ def calculate_match_score(
     text_similarity = float(np.clip(text_similarity, 0, 100))
     skill_coverage = float(np.clip(skill_coverage, 0, 100))
     if has_required_skills:
-        score = 0.7 * text_similarity + 0.3 * skill_coverage
+        score = 0.4 * text_similarity + 0.6 * skill_coverage
     else:
         score = text_similarity
     return float(np.clip(score, 0, 100))
