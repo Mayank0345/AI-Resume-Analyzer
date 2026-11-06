@@ -1,0 +1,10 @@
+# Web application
+streamlit>=1.35
+
+# Data processing and matching
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+
+# PDF text extraction
+PyPDF2>=3.0
