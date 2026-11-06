@@ -129,7 +129,7 @@ python -m unittest discover -s tests -v
 3. **Skills:** A small, editable vocabulary is searched in both documents.
    Skills required by the description are marked as found or missing.
 4. **Overall score:** When recognized job skills are present, the result is
-   `70% text similarity + 30% required-skill coverage`. If none are found,
+   `40% text similarity + 60% required-skill coverage`. If none are found,
    the score uses text similarity alone. The result is clamped from 0 to 100.
 5. **Keywords and suggestions:** High-weight job-description terms are ranked
    with TF-IDF; terms not present in the resume are shown as keywords to
