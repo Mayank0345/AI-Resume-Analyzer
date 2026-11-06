@@ -1,4 +1,6 @@
 # AI Resume Analyzer
+Live app: [Launch AI Resume Analyzer](https://mayank0345-ai-resume-analyzer.streamlit.app/)
+
 
 A beginner-friendly Streamlit project that extracts text from PDF resumes,
 compares it with a pasted or uploaded job description, and reports an estimated
